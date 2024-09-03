@@ -1,0 +1,48 @@
+!!!
+show clock
+
+show version
+!!!
+
+show inventory
+
+!!!
+show environment all
+show environment stack
+show environment power
+show environment temperature
+
+!!!
+show clock
+
+
+show interfaces status
+show ip interface brief
+show ipv6 interface brief
+show interfaces description
+
+show interfaces trunk
+
+show cdp neigh
+show cdp neigh detail
+
+!!!
+
+!!! Change VLAN info based on location
+show spanning-tree vlan 1
+show spanning-tree vlan 99
+show spanning-tree vlan 101
+
+!!
+
+show clock
+!!
+
+show run
+!!
+
+show clock
+
+!!
+!!
+!!
